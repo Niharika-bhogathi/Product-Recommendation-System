@@ -7,7 +7,11 @@ This project focuses on analyzing ratings data from an electronics dataset and b
 ## Dataset
 Dataset Link : https://www.kaggle.com/datasets/vibivij/amazon-electronics-rating-datasetrecommendation?resource=download
 The dataset used in this project is ratings_Electronics.csv, which contains the following columns:
+
 user_id: Unique identifier for each user.
+
 prod_id: Unique identifier for each product.
+
 rating: Rating given by the user to the product (on a scale of 1 to 5).
+
 timestamp: Timestamp of the rating (dropped for this analysis).
